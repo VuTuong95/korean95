@@ -1,0 +1,22 @@
+{
+  "name": "korean95",
+  "version": "1.0.0",
+  "description": "Test NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuTuong95/korean95.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuTuong95/korean95/issues"
+  },
+  "homepage": "https://github.com/VuTuong95/korean95#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
